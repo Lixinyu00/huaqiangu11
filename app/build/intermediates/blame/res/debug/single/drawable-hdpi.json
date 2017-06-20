@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\workspace\\huaqiangu11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh.png",
+        "source": "D:\\workspace\\huaqiangu11\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\workspace\\huaqiangu11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\workspace\\huaqiangu11\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\workspace\\huaqiangu11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p_1.png",
+        "source": "D:\\workspace\\huaqiangu11\\app\\src\\main\\res\\drawable-hdpi\\p_1.png"
+    },
+    {
+        "merged": "D:\\workspace\\huaqiangu11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\huaqiangu11\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\huaqiangu11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\next.png",
+        "source": "D:\\workspace\\huaqiangu11\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\workspace\\huaqiangu11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "D:\\workspace\\huaqiangu11\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\workspace\\huaqiangu11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\letter.png",
+        "source": "D:\\workspace\\huaqiangu11\\app\\src\\main\\res\\drawable-hdpi\\letter.png"
+    },
+    {
+        "merged": "D:\\workspace\\huaqiangu11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\enter.png",
+        "source": "D:\\workspace\\huaqiangu11\\app\\src\\main\\res\\drawable-hdpi\\enter.png"
+    }
+]
